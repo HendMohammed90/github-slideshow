@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
 ---
-This will add a slide for HendMohammed
+This will Change a slide for slides
 Use the left arrow to go back!
