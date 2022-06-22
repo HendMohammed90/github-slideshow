@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+This will add a slide for HendMohammed
 Use the left arrow to go back!
